@@ -1,0 +1,10 @@
+{
+  "test_1_login_valid": {
+    "value_username": "Admin",
+    "value_password": "admin123"
+  },
+  "test_1_login_invalid": {
+    "value_username": "Admina",
+    "value_password": "admin123a"
+  }
+}
